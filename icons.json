@@ -607,7 +607,7 @@
 		"load": "_f_settings",
 		"opt": "_f_settings",
 		"cnf": "_f_settings",
-		"makefile": "_f_settings-red",
+		"makefile": "_f_gnu",
 		"rake": "_f_ruby",
 		"rakefile": "_f_ruby",
 		"mk": "_f_settings-red",
@@ -909,7 +909,7 @@
 		"brunch-config.ts": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
 		"cmakelists.txt": "_f_cmake",
-		"makefile": "_f_settings-red",
+		"makefile": "_f_gnu",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
 		"docker.yml": "_f_docker",
@@ -1182,7 +1182,7 @@
 		"cypress.env.json": "_f_cypress",
 		"go.mod": "_f_go",
 		"flow-typed.config.json": "_f_flowtyped",
-		"poetry.lock": "_f_toml",
+		"poetry.lock": "_f_toml"
 	},
 	"languageIds": {
 		"apache": "_f_apache",

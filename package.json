@@ -1,15 +1,11 @@
 {
-	"name": "vscode-great-icons",
-	"displayName": "VSCode Great Icons",
-	"description": "A big pack of icons (200+) for your files.",
+	"name": "vscode-great-icons-fork",
+	"displayName": "VSCode Great Icons (Fork)",
+	"description": "A big pack of icons (200+) for your files (with some tweaks).",
 	"version": "2.1.105",
 	"publisher": "emmanuelbeziat",
 	"engines": {
 		"vscode": "^1.70.0"
-	},
-	"scripts": {
-		"publish": "vsce publish",
-		"patch": "vsce publish patch"
 	},
 	"categories": [
 		"Other",
@@ -19,7 +15,7 @@
 		"iconThemes": [
 			{
 				"id": "vscode-great-icons",
-				"label": "VSCode Great Icons",
+				"label": "VSCode Great Icons (Fork)",
 				"path": "./icons.json"
 			}
 		]
