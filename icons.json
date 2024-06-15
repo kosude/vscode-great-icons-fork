@@ -395,6 +395,7 @@
 		"bowerrc": "_f_bower",
 		"c": "_f_c",
 		"h": "_f_c-h",
+		"h.in": "_f_c-h",
 		"cake": "_f_cake",
 		"kit": "_f_codekit",
 		"coffee": "_f_coffeescript",
